@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="370" src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/logo_transparent.png">
+  <img width="370" src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/logo.png">
 </p>
 
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
