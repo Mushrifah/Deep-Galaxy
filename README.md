@@ -6,7 +6,21 @@
 
 # Deep-Galaxy
 
-Computer Vision based project for classification of Galaxies Images and estimating their major chemical composition from color spectrum. 
+Computer Vision based project for classification of Galaxies Images and estimating their major chemical composition from color spectrum.
+
+## Team Members: 
+
+1. Diganta Misra - @Diganta
+2. Venkatesh Prasad - @Venkatesh
+3. T.Vishwaak Chandran - @Xerous
+4. Disha Mendiratta - @Disha Mendiratta
+5. Mushrifah Hasan - @Mushrifah Hasan
+6. Sourav Kumar - @sourav kumar
+7. Arka - @Arka
+8. Shivam Raisharma - @Shivam Raisharma
+9. Anshu Trivedi - @Anshu Trivedi
+
+## Project Flow Chart:
 
 ## Sample Data:
 
