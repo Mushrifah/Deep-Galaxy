@@ -3,6 +3,7 @@
 </p>
 
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digantamisra98/Deep-Galaxy/master)
 
 # Deep-Galaxy
 
