@@ -26,7 +26,7 @@ Computer Vision based project for classification of Galaxies Images and estimati
 
 |Spiral|Elliptical|
 |:---:|:---:|
-|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Elliptical/elliptical.gif" width="300" height="300" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Spiral/spiral.gif" width="300" height="300" /></div>|
+|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Elliptical/elliptical.gif" width="250" height="250" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Spiral/spiral.gif" width="250" height="250" /></div>|
 
 ### Sample Elliptical Galaxy Spectrum Data:
 
