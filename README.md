@@ -28,6 +28,12 @@ Deep Galaxy is a Computer Vision based project hosted as a Web API where an user
 
 *Image Credits - Wikipedia*
 
+The Classifier will also provide additional information regarding the mass/ density of the Galaxy and the Galaxy Name along with it's year of discovery. Furthermore, based on the spectrum of the Image being in either SHO/ SHN/ SHHe*, it will also provide information regarding the max chemical gaseous composition of the galaxy. 
+
+*SHO - Sulphur, Hydrogen, Oxygen
+SHN - Sulphur, Hydrogen, Nitrogen
+SHHe - Sulphur, Hydrogen, Helium*
+
 ## Team Members: 
 
 |Member Name| Slack Handle|
