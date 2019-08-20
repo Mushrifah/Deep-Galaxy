@@ -12,7 +12,6 @@ Computer Vision based project for classification of Galaxies Images and estimati
 
 |Member Name| Slack Handle|
 |---|---|
-
 |[Diganta Misra](https://github.com/digantamisra98)| @Diganta|
 |[Venkatesh Prasad](https://github.com/ven-k) | @Venkatesh|
 |[T.Vishwaak Chandran](https://github.com/vishwaak) | @Xerous|
