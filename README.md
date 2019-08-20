@@ -19,7 +19,7 @@ Computer Vision based project for classification of Galaxies Images and estimati
 |[Mushrifah Hasan](https://github.com/Mushrifah) | @Mushrifah Hasan|
 |[Sourav Kumar](https://github.com/souravs17031999) | @sourav kumar|
 |Arka | @Arka|
-| Shivam Raisharma | @Shivam Raisharma|
+| [Shivam Raisharma](https://github.com/ShivamSRS) | @Shivam Raisharma|
 |[Anshu Trivedi](https://github.com/AnshuTrivedi) | @Anshu Trivedi|
 
 ## Project Flow Chart:
