@@ -51,6 +51,8 @@ SHHe - Sulphur, Hydrogen, Helium*
 
 ## Project Flow Chart:
 
+<div style="text-align:center"><img src ="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/Flowchart.png"  width="700"/></div>
+
 ## Sample Data:
 
 |Spiral|Elliptical|
