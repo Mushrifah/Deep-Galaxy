@@ -25,6 +25,7 @@ Deep Galaxy is a Computer Vision based project hosted as a Web API where an user
 *E- Elliptical, S - Spiral, SB - Barred Spiral*
 
 <div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/Hubble_sequence_photo.png" width="700" height="400" /></div>
+
 *Image Credits - Wikipedia*
 
 ## Team Members: 
