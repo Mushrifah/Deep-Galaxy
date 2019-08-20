@@ -8,6 +8,22 @@
 
 Computer Vision based project for classification of Galaxies Images and estimating their major chemical composition from color spectrum.
 
+## Project Description: 
+
+Deep Galaxy is a Computer Vision based project hosted as a Web API where an user can input the valid image of any galaxy and the Web API shall classify the Galaxy into it's specific shape-variant class which includes: 
+1. E0
+2. E3
+3. E7 
+4. S0
+5. Sa
+6. Sb
+7. Sc
+8. SBa
+9. SBb
+10. SBc 
+
+*E- Elliptical, S - Spiral, SB - Barred Spiral*
+
 ## Team Members: 
 
 |Member Name| Slack Handle|
@@ -18,7 +34,7 @@ Computer Vision based project for classification of Galaxies Images and estimati
 |[Disha Mendiratta](https://github.com/dishha) | @Disha Mendiratta|
 |[Mushrifah Hasan](https://github.com/Mushrifah) | @Mushrifah Hasan|
 |[Sourav Kumar](https://github.com/souravs17031999) | @sourav kumar|
-|Arka | @Arka|
+|[Arka](https://github.com/Escanor1996) | @Arka|
 | [Shivam Raisharma](https://github.com/ShivamSRS) | @Shivam Raisharma|
 |[Anshu Trivedi](https://github.com/AnshuTrivedi) | @Anshu Trivedi|
 
