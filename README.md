@@ -17,7 +17,9 @@ Computer Vision based project for classification of Galaxies Images and estimati
 
 ### Sample Elliptical Galaxy Spectrum Data:
 
-**Galaxy ID - **
+**Galaxy Name - PGC0000212  
+Object ID  : 587730775499735086   
+Special Object ID : 211330582687252480**
 
 |Green Filter|InfraRed Filter|NearInfraRed Filter|Red Filter| UV Filter| inRGB|
 |:---:|:---:|:---:|:---:|:---:|:---:|
