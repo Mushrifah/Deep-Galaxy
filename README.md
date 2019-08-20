@@ -10,15 +10,18 @@ Computer Vision based project for classification of Galaxies Images and estimati
 
 ## Team Members: 
 
-1. [Diganta Misra](https://github.com/digantamisra98) - @Diganta
-2. [Venkatesh Prasad](https://github.com/ven-k) - @Venkatesh
-3. [T.Vishwaak Chandran](https://github.com/vishwaak) - @Xerous
-4. [Disha Mendiratta](https://github.com/dishha) - @Disha Mendiratta
-5. [Mushrifah Hasan](https://github.com/Mushrifah) - @Mushrifah Hasan
-6. [Sourav Kumar](https://github.com/souravs17031999) - @sourav kumar
-7. Arka - @Arka
-8. Shivam Raisharma - @Shivam Raisharma
-9. [Anshu Trivedi](https://github.com/AnshuTrivedi) - @Anshu Trivedi
+|Member Name| Slack Handle|
+|---|---|
+
+|[Diganta Misra](https://github.com/digantamisra98)| @Diganta|
+|[Venkatesh Prasad](https://github.com/ven-k) | @Venkatesh|
+|[T.Vishwaak Chandran](https://github.com/vishwaak) | @Xerous|
+|[Disha Mendiratta](https://github.com/dishha) | @Disha Mendiratta|
+|[Mushrifah Hasan](https://github.com/Mushrifah) | @Mushrifah Hasan|
+|[Sourav Kumar](https://github.com/souravs17031999) | @sourav kumar|
+|Arka | @Arka|
+| Shivam Raisharma | @Shivam Raisharma|
+|[Anshu Trivedi](https://github.com/AnshuTrivedi) | @Anshu Trivedi|
 
 ## Project Flow Chart:
 
