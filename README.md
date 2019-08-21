@@ -55,7 +55,7 @@ SHHe - Sulphur, Hydrogen, Helium*
 
 ## Sample Data:
 
-|Spiral|Elliptical|
+|Elliptical|Spiral|
 |:---:|:---:|
 |<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Elliptical/elliptical.gif" width="250" height="250" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Spiral/spiral.gif" width="250" height="250" /></div>|
 
