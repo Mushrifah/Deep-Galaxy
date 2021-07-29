@@ -26,7 +26,7 @@ Deep Galaxy is a Computer Vision based project hosted as a Web API where an user
 
 *E- Elliptical, S - Spiral, SB - Barred Spiral*
 
-<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/Hubble_sequence_photo.png" width="700" height="400" /></div>
+<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/Hubble_sequence_photo.png" width="700" height="400" /></div>
 
 *Image Credits - Wikipedia*
 
@@ -52,13 +52,13 @@ SHHe - Sulphur, Hydrogen, Helium*
 
 ## Project Flow Chart:
 
-<div style="text-align:center"><img src ="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/flow.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/flow.png"  width="1000"/></div>
 
 ## Sample Data:
 
 |Elliptical|Spiral|
 |:---:|:---:|
-|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Elliptical/elliptical.gif" width="250" height="250" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Spiral/spiral.gif" width="250" height="250" /></div>|
+|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Elliptical/elliptical.gif" width="250" height="250" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/Spiral/spiral.gif" width="250" height="250" /></div>|
 
 ### Sample Elliptical Galaxy Spectrum Data:
 
@@ -68,6 +68,6 @@ Special Object ID : 211330582687252480**
 
 |Green Filter|InfraRed Filter|NearInfraRed Filter|Red Filter| UV Filter| inRGB|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/GreenFilter/pgc0000212_greenFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/InfraredFilter/pgc0000212_infraredFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/NearInfraredFilter/pgc0000212_nearInfrared.png" width="120" height="120" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/RedFilter/PGC0000212_redFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/UVFilter/pgc0000212_UVFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/digantamisra98/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/inRGB/PGC0000212.png" width="120" height="120" /></div>|
+|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/GreenFilter/pgc0000212_greenFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/InfraredFilter/pgc0000212_infraredFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/NearInfraredFilter/pgc0000212_nearInfrared.png" width="120" height="120" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/RedFilter/PGC0000212_redFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/UVFilter/pgc0000212_UVFilter.png" width="120" height="120" /></div>|<div><img src="https://github.com/Mushrifah/Deep-Galaxy/blob/master/Assets/DeepGalaxy/PGC0000212/inRGB/PGC0000212.png" width="120" height="120" /></div>|
 
 
